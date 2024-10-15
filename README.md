@@ -23,3 +23,7 @@ SQL Functions: LPAD, TO_DATE, ROW_NUMBER()
 
 Data Cleaning Operations: Format standardization, duplicate record handling, and preparation of clean data for visualization.
 
+#  Dashboard 
+A dashboard used to show how satisfied patients are with their hospitals.
+**Link:** https://public.tableau.com/app/profile/michael.paxon/viz/HCAHPSPaitentSatisfactionScores/HCAHPSDashboard
+
