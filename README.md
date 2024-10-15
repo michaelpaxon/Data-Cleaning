@@ -18,6 +18,7 @@ Created a new table, Tableau_file, to store the cleaned and prepped data, which 
 
  **Tools & Techniques:**
 SQL Functions: LPAD, TO_DATE, ROW_NUMBER()
+
 Data Cleaning Operations: Format standardization, duplicate record handling, and preparation of clean data for visualization.
 
 This project demonstrates my ability to clean and prepare data for analysis, ensuring data integrity and consistency, to ensure accurate reporting and visualization.
