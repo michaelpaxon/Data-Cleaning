@@ -1,4 +1,3 @@
--- Finished just need to import to  tableau 48:18
 create table "postgres"."Hospital_Data".Tableau_file as
 /*
 SELECT *
