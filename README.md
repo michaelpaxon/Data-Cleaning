@@ -3,6 +3,7 @@ In this project, I worked on cleaning and preparing hospital data for further an
 
 # Key Steps in the Data Cleaning Process:
 
+
 # Handling Inconsistent Data Formats:
 Used the LPAD function to standardize the length of the provider_ccn and facility_id fields, ensuring that all IDs are padded with leading zeros if necessary. This ensured consistent formatting for these identifier columns.
 
