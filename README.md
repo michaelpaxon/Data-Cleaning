@@ -1,5 +1,5 @@
 # SQL Data Cleaning Project: Hospital Data Analysis
-In this project, I worked on cleaning and preparing hospital data for further analysis in Tableau. The dataset consisted of hospital records, and my goal was to ensure the data was clean, properly formatted, and ready for visualization.
+This project demonstrates my ability to clean and prepare data for further analysis, ensuring data integrity and consistency ensuring accurate reporting and visualization. In the project, I cleaned and prepared hospital data for further analysis in Tableau. 
 
 # Key Steps in the Data Cleaning Process:
 
@@ -23,4 +23,3 @@ SQL Functions: LPAD, TO_DATE, ROW_NUMBER()
 
 Data Cleaning Operations: Format standardization, duplicate record handling, and preparation of clean data for visualization.
 
-This project demonstrates my ability to clean and prepare data for analysis, ensuring data integrity and consistency, to ensure accurate reporting and visualization.
