@@ -17,6 +17,8 @@ To address potential duplicate records, I used the ROW_NUMBER() function with a 
 Created a new table, Tableau_file, to store the cleaned and prepped data, which is ready to be imported into Tableau for further analysis and visualization.
 
  **Tools & Techniques:**
+
+
 SQL Functions: LPAD, TO_DATE, ROW_NUMBER()
 
 Data Cleaning Operations: Format standardization, duplicate record handling, and preparation of clean data for visualization.
