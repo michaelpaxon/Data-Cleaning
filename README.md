@@ -1,5 +1,5 @@
 # SQL Data Cleaning Project: Hospital Data Analysis
-This project demonstrates my ability to clean and prepare data for further analysis, ensuring data integrity and consistency ensuring accurate reporting and visualization. In the project, I cleaned and prepared hospital data for further analysis in Tableau. 
+This project demonstrates my ability to clean and prepare data for further analysis, ensuring data integrity,consistency,accurate reporting and visualization. In the project, I cleaned and prepared hospital data for further analysis in Tableau. 
 
 # Key Steps in the Data Cleaning Process:
 
