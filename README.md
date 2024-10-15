@@ -25,5 +25,7 @@ Data Cleaning Operations: Format standardization, duplicate record handling, and
 
 #  Dashboard 
 A dashboard used to show how satisfied patients are with their hospitals.
-**Link:** https://public.tableau.com/app/profile/michael.paxon/viz/HCAHPSPaitentSatisfactionScores/HCAHPSDashboard
+
+**Link:**
+https://public.tableau.com/app/profile/michael.paxon/viz/HCAHPSPaitentSatisfactionScores/HCAHPSDashboard
 
